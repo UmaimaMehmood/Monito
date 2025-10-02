@@ -1,0 +1,282 @@
+[
+  {
+    "url": "https://lms.dsu.edu.pk/",
+    "timestamp": "2025-10-02 10:24:22",
+    "status": "error",
+    "response_code": null,
+    "response_time": 0.0,
+    "ssl_valid": null,
+    "content_found": null,
+    "error": "module 'urllib' has no attribute 'Request'"
+  },
+  {
+    "url": "https://lms.dsu.edu.pk/",
+    "timestamp": "2025-10-02 10:24:30",
+    "status": "error",
+    "response_code": null,
+    "response_time": 0.0,
+    "ssl_valid": null,
+    "content_found": null,
+    "error": "module 'urllib' has no attribute 'Request'"
+  },
+  {
+    "url": "https://lms.dsu.edu.pk/",
+    "timestamp": "2025-10-02 10:24:38",
+    "status": "error",
+    "response_code": null,
+    "response_time": 0.0,
+    "ssl_valid": null,
+    "content_found": null,
+    "error": "module 'urllib' has no attribute 'Request'"
+  },
+  {
+    "url": "https://lms.dsu.edu.pk/",
+    "timestamp": "2025-10-02 10:24:46",
+    "status": "error",
+    "response_code": null,
+    "response_time": 0.0,
+    "ssl_valid": null,
+    "content_found": null,
+    "error": "module 'urllib' has no attribute 'Request'"
+  },
+  {
+    "url": "https://lms.dsu.edu.pk/",
+    "timestamp": "2025-10-02 10:24:54",
+    "status": "error",
+    "response_code": null,
+    "response_time": 0.0,
+    "ssl_valid": null,
+    "content_found": null,
+    "error": "module 'urllib' has no attribute 'Request'"
+  },
+  {
+    "url": "https://lms.dsu.edu.pk/",
+    "timestamp": "2025-10-02 10:25:02",
+    "status": "error",
+    "response_code": null,
+    "response_time": 0.0,
+    "ssl_valid": null,
+    "content_found": null,
+    "error": "module 'urllib' has no attribute 'Request'"
+  },
+  {
+    "url": "https://lms.dsu.edu.pk/",
+    "timestamp": "2025-10-02 10:25:10",
+    "status": "error",
+    "response_code": null,
+    "response_time": 0.0,
+    "ssl_valid": null,
+    "content_found": null,
+    "error": "module 'urllib' has no attribute 'Request'"
+  },
+  {
+    "url": "https://lms.dsu.edu.pk/",
+    "timestamp": "2025-10-02 10:25:18",
+    "status": "error",
+    "response_code": null,
+    "response_time": 0.0,
+    "ssl_valid": null,
+    "content_found": null,
+    "error": "module 'urllib' has no attribute 'Request'"
+  },
+  {
+    "url": "https://lms.dsu.edu.pk/",
+    "timestamp": "2025-10-02 10:25:26",
+    "status": "error",
+    "response_code": null,
+    "response_time": 0.0,
+    "ssl_valid": null,
+    "content_found": null,
+    "error": "module 'urllib' has no attribute 'Request'"
+  },
+  {
+    "url": "https://lms.dsu.edu.pk/",
+    "timestamp": "2025-10-02 10:25:34",
+    "status": "error",
+    "response_code": null,
+    "response_time": 0.0,
+    "ssl_valid": null,
+    "content_found": null,
+    "error": "module 'urllib' has no attribute 'Request'"
+  },
+  {
+    "url": "https://lms.dsu.edu.pk/",
+    "timestamp": "2025-10-02 10:25:42",
+    "status": "error",
+    "response_code": null,
+    "response_time": 0.0,
+    "ssl_valid": null,
+    "content_found": null,
+    "error": "module 'urllib' has no attribute 'Request'"
+  },
+  {
+    "url": "https://lms.dsu.edu.pk/",
+    "timestamp": "2025-10-02 10:25:50",
+    "status": "error",
+    "response_code": null,
+    "response_time": 0.0,
+    "ssl_valid": null,
+    "content_found": null,
+    "error": "module 'urllib' has no attribute 'Request'"
+  },
+  {
+    "url": "https://lms.dsu.edu.pk/",
+    "timestamp": "2025-10-02 10:25:58",
+    "status": "error",
+    "response_code": null,
+    "response_time": 0.0,
+    "ssl_valid": null,
+    "content_found": null,
+    "error": "module 'urllib' has no attribute 'Request'"
+  },
+  {
+    "url": "https://lms.dsu.edu.pk/",
+    "timestamp": "2025-10-02 10:26:06",
+    "status": "error",
+    "response_code": null,
+    "response_time": 0.0,
+    "ssl_valid": null,
+    "content_found": null,
+    "error": "module 'urllib' has no attribute 'Request'"
+  },
+  {
+    "url": "https://lms.dsu.edu.pk/",
+    "timestamp": "2025-10-02 10:26:14",
+    "status": "error",
+    "response_code": null,
+    "response_time": 0.0,
+    "ssl_valid": null,
+    "content_found": null,
+    "error": "module 'urllib' has no attribute 'Request'"
+  },
+  {
+    "url": "https://lms.dsu.edu.pk/",
+    "timestamp": "2025-10-02 10:26:22",
+    "status": "error",
+    "response_code": null,
+    "response_time": 0.0,
+    "ssl_valid": null,
+    "content_found": null,
+    "error": "module 'urllib' has no attribute 'Request'"
+  },
+  {
+    "url": "https://lms.dsu.edu.pk/",
+    "timestamp": "2025-10-02 10:26:30",
+    "status": "error",
+    "response_code": null,
+    "response_time": 0.0,
+    "ssl_valid": null,
+    "content_found": null,
+    "error": "module 'urllib' has no attribute 'Request'"
+  },
+  {
+    "url": "https://lms.dsu.edu.pk/",
+    "timestamp": "2025-10-02 10:26:38",
+    "status": "error",
+    "response_code": null,
+    "response_time": 0.0,
+    "ssl_valid": null,
+    "content_found": null,
+    "error": "module 'urllib' has no attribute 'Request'"
+  },
+  {
+    "url": "https://lms.dsu.edu.pk/",
+    "timestamp": "2025-10-02 10:26:46",
+    "status": "error",
+    "response_code": null,
+    "response_time": 0.0,
+    "ssl_valid": null,
+    "content_found": null,
+    "error": "module 'urllib' has no attribute 'Request'"
+  },
+  {
+    "url": "https://lms.dsu.edu.pk/",
+    "timestamp": "2025-10-02 10:26:54",
+    "status": "error",
+    "response_code": null,
+    "response_time": 0.0,
+    "ssl_valid": null,
+    "content_found": null,
+    "error": "module 'urllib' has no attribute 'Request'"
+  },
+  {
+    "url": "https://lms.dsu.edu.pk/",
+    "timestamp": "2025-10-02 10:27:02",
+    "status": "error",
+    "response_code": null,
+    "response_time": 0.001,
+    "ssl_valid": null,
+    "content_found": null,
+    "error": "module 'urllib' has no attribute 'Request'"
+  },
+  {
+    "url": "https://lms.dsu.edu.pk/",
+    "timestamp": "2025-10-02 10:27:10",
+    "status": "error",
+    "response_code": null,
+    "response_time": 0.0,
+    "ssl_valid": null,
+    "content_found": null,
+    "error": "module 'urllib' has no attribute 'Request'"
+  },
+  {
+    "url": "https://lms.dsu.edu.pk/",
+    "timestamp": "2025-10-02 10:27:18",
+    "status": "error",
+    "response_code": null,
+    "response_time": 0.0,
+    "ssl_valid": null,
+    "content_found": null,
+    "error": "module 'urllib' has no attribute 'Request'"
+  },
+  {
+    "url": "https://lms.dsu.edu.pk/",
+    "timestamp": "2025-10-02 10:27:26",
+    "status": "error",
+    "response_code": null,
+    "response_time": 0.0,
+    "ssl_valid": null,
+    "content_found": null,
+    "error": "module 'urllib' has no attribute 'Request'"
+  },
+  {
+    "url": "https://lms.dsu.edu.pk/",
+    "timestamp": "2025-10-02 10:27:34",
+    "status": "error",
+    "response_code": null,
+    "response_time": 0.0,
+    "ssl_valid": null,
+    "content_found": null,
+    "error": "module 'urllib' has no attribute 'Request'"
+  },
+  {
+    "url": "https://lms.dsu.edu.pk/",
+    "timestamp": "2025-10-02 10:27:42",
+    "status": "error",
+    "response_code": null,
+    "response_time": 0.0,
+    "ssl_valid": null,
+    "content_found": null,
+    "error": "module 'urllib' has no attribute 'Request'"
+  },
+  {
+    "url": "https://lms.dsu.edu.pk/",
+    "timestamp": "2025-10-02 10:27:50",
+    "status": "error",
+    "response_code": null,
+    "response_time": 0.0,
+    "ssl_valid": null,
+    "content_found": null,
+    "error": "module 'urllib' has no attribute 'Request'"
+  },
+  {
+    "url": "https://lms.dsu.edu.pk/",
+    "timestamp": "2025-10-02 10:27:58",
+    "status": "error",
+    "response_code": null,
+    "response_time": 0.0,
+    "ssl_valid": null,
+    "content_found": null,
+    "error": "module 'urllib' has no attribute 'Request'"
+  }
+]
